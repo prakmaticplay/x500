@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://prakmaticplay.github.io/x500/sitemap.xml
